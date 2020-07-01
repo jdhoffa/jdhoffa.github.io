@@ -9,7 +9,7 @@ options(
   jekyll.default.template = "posts"
 )
 
-title = "r2dii suite is now on CRAN"
+title = "The r2dii suite is now on CRAN"
 
 categories = c("blog")
 

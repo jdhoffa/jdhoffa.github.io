@@ -1,5 +1,5 @@
 ---
-title: r2dii suite is now on CRAN
+title: The r2dii suite is now on CRAN
 layout: posts
 categories:
  - blog
@@ -20,8 +20,8 @@ You can easily install all three packages directly from CRAN using:
 ```r
 install.packages(
   c(
-    "r2dii.data", 
-    "r2dii.match", 
+    "r2dii.data",
+    "r2dii.match",
     "r2dii.analysis"
     )
   )
@@ -49,33 +49,33 @@ library(r2dii.data)
 data_dictionary %>%
   distinct(dataset)
 #> # A tibble: 13 x 1
-#>    dataset                    
-#>    <chr>                      
-#>  1 ald_demo                   
+#>    dataset
+#>    <chr>
+#>  1 ald_demo
 #>  2 co2_intensity_scenario_demo
-#>  3 data_dictionary            
-#>  4 isic_classification        
-#>  5 iso_codes                  
-#>  6 loanbook_demo              
-#>  7 nace_classification        
-#>  8 naics_classification       
-#>  9 overwrite_demo             
-#> 10 region_isos                
-#> 11 region_isos_demo           
-#> 12 scenario_demo_2020         
+#>  3 data_dictionary
+#>  4 isic_classification
+#>  5 iso_codes
+#>  6 loanbook_demo
+#>  7 nace_classification
+#>  8 naics_classification
+#>  9 overwrite_demo
+#> 10 region_isos
+#> 11 region_isos_demo
+#> 12 scenario_demo_2020
 #> 13 sector_classifications
 ```
 
-Some of the most useful datasets are: 
-* `loanbook_demo`: a loanbook dataset which can be used as a template to format real loanbook/ portfolio data. 
+Some of the most useful datasets are:
+* `loanbook_demo`: a loanbook dataset which can be used as a template to format real loanbook/ portfolio data.
 * `ald_demo`: a so-called "asset-level" dataset, containing crucial climate data at the asset level. (eg. power-plant capacity data, automotive car production, steel company emission factors)
-* `scenario_demo_2020`: a fake climate scenario, offering technology pathways that would likely limit warming to less than 2 degrees celsius. 
+* `scenario_demo_2020`: a fake climate scenario, offering technology pathways that would likely limit warming to less than 2 degrees celsius.
 
 ## r2dii.match
 
-[r2dii.match](https://2degreesinvesting.github.io/r2dii.match/) provides the tools necessary to match the counter-parties in a loanbook to the climate data of the assets that they own. 
+[r2dii.match](https://2degreesinvesting.github.io/r2dii.match/) provides the tools necessary to match the counter-parties in a loanbook to the climate data of the assets that they own.
 
-Owing to the fact that many lending portfolios are exposed to mid- and small- size companies, which are often not publicly-listed, matching data can be tricky. To achieve these links, we have written wrappers around some common fuzzy matching algorithms, which play nicely with formatted `loanbook`'s and `ald`'s. 
+Owing to the fact that many lending portfolios are exposed to mid- and small- size companies, which are often not publicly-listed, matching data can be tricky. To achieve these links, we have written wrappers around some common fuzzy matching algorithms, which play nicely with formatted `loanbook`'s and `ald`'s.
 
 You can run the matching algorithm on sample data provided by `r2dii.data`:
 
@@ -119,9 +119,9 @@ matched %>%
 #> 6 Nandi Roller Inc.           power    nandi roller flour mills pvt. ltd. power      0.851
 ```
 
-The final step is to prioritize your matches. This ensures that the same loan isn't accidentally matched to multiple `ald` companies. 
+The final step is to prioritize your matches. This ensures that the same loan isn't accidentally matched to multiple `ald` companies.
 
-Read the validated match file back into R and run: 
+Read the validated match file back into R and run:
 
 
 ```r
@@ -132,21 +132,21 @@ match_result %>%
   select(name_direct_loantaker, loan_size_outstanding, sector, name_ald) %>%
   head()
 #> # A tibble: 6 x 4
-#>   name_direct_loantaker             loan_size_outstanding sector     name_ald                         
-#>   <chr>                                             <dbl> <chr>      <chr>                            
-#> 1 Shaanxi Auto                                     396377 automotive shaanxi auto                     
-#> 2 Shandong Auto                                    319353 automotive shandong auto                    
-#> 3 Shandong Kama                                    258105 automotive shandong kama                    
-#> 4 Shandong Tangjun Ouling                          332345 automotive shandong tangjun ouling          
+#>   name_direct_loantaker             loan_size_outstanding sector     name_ald
+#>   <chr>                                             <dbl> <chr>      <chr>
+#> 1 Shaanxi Auto                                     396377 automotive shaanxi auto
+#> 2 Shandong Auto                                    319353 automotive shandong auto
+#> 3 Shandong Kama                                    258105 automotive shandong kama
+#> 4 Shandong Tangjun Ouling                          332345 automotive shandong tangjun ouling
 #> 5 Shanghai Automotive Industry Corp                203353 automotive shanghai automotive industry corp
 #> 6 Shanxi Dayun                                     329561 automotive shanxi dayun
 ```
 
 ## r2dii.analysis
 
-The final step is to analyze your matched dataset, and compare the results to a climate scenario. 
+The final step is to analyze your matched dataset, and compare the results to a climate scenario.
 
-You can apply scenario targets to your loanbook data by calling: 
+You can apply scenario targets to your loanbook data by calling:
 
 
 ```r

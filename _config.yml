@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Working Title
+title: Jackson Hoffart
 email: jackson.hoffart@gmail.com
 description: Jackson Hoffart's personal blog.
 twitter_username: jdhoffart
@@ -49,7 +49,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Jackson Hoffart"
+  name   : " "
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Software developer and environmentalist. I build data-driven software to help address the climate crisis. 🇨🇦"
   location: "Berlin, DE"

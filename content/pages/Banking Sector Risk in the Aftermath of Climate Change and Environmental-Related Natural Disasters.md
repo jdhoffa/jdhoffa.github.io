@@ -7,7 +7,7 @@ lastMod: 2023-03-24
 ---
 #TBR #Papers #NIBBLE
 
-Topics: [[Loans]] [[Physical Risk]] [[Climate Change]] [[Natural Disasters]] [[Financial Stability]]
+Topics: [[Loans]] [Physical Risk]({{< ref "/pages/Physical Risk" >}}) [[Climate Change]] [[Natural Disasters]] [[Financial Stability]]
 
 Started: [[Mar 22nd, 2023]]
 
@@ -107,7 +107,7 @@ Background:
 
   + Risks emerge from two sources:
 
-    + [[Physical Risk]]
+    + [Physical Risk]({{< ref "/pages/Physical Risk" >}})
 
       + Derive from natural disasters and gradual permanent shifts of the climate that lead to economic costs and financial loses
 
@@ -115,7 +115,7 @@ Background:
 
         + Credit, Operational, Market, Liquidity, and Reputational risks
 
-    + [[Transition Risk]]
+    + [Transition Risk]({{< ref "/pages/Transition Risk" >}})
 
       + Related to cost adjustments during the transition towards a carbon-neutral economy
 
@@ -129,7 +129,7 @@ Background:
 
       + Could be mild if transition occurs smoothly, or severe if transition is abrupt
 
-        + [[Stranded Assets]] increasing the chance that borrowers are unlikely to repay their debt obligations with negative repercussions for lenders
+        + [Stranded Assets]({{< ref "/pages/Stranded Assets" >}}) increasing the chance that borrowers are unlikely to repay their debt obligations with negative repercussions for lenders
 
 Findings:
 

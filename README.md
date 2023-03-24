@@ -1,6 +1,6 @@
 # jdhoffa.github.io
 
-[My digital garden 🌱](jdhoffa.github.io)
+[My digital garden 🌱](https://jdhoffa.github.io)
 
 This repo generates a website that is meant to be an open-source version of my brain. 
 

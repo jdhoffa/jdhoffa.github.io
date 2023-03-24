@@ -5,8 +5,8 @@ theme: "PaperMod"
 
 params:
   homeInfoParams:
-    Title: My digital garden  😎
-    Content: This is something shows in your homepage.
+    Title: "My digital garden 🌱"
+    Content: "Hello! My name is Jackson, here are my notes:"
 
   socialIcons: # optional
     - name: "github"
@@ -15,8 +15,8 @@ params:
       url: "https://twitter.com/jdhoffart"
     - name: "kofi"
       url: "https://buymeacoffee.com/jdhoffa"
-    # - name: "rss"
-    #   url: "https://XXX.github.io/index.xml"
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/jackson-hoffart/"
   ShowReadingTime: true
   author: "Jackson Hoffart"
   contact: "jackson.hoffart@gmail.com"
@@ -26,7 +26,7 @@ params:
 
  #Google Analytics 4 optional
   env: #production
-  GoogleAnalytics: "G-00000XXXXX" 
+  GoogleAnalytics: "G-JZB0EV35X5" 
   sitemap:
     changefreq: daily
     filename: sitemap.xml

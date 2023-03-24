@@ -5,7 +5,7 @@ theme: "PaperMod"
 
 params:
   homeInfoParams:
-    Title: Temporary title 😎
+    Title: My digital garden  😎
     Content: This is something shows in your homepage.
 
   socialIcons: # optional

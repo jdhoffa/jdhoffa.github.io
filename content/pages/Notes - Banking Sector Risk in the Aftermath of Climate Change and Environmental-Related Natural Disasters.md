@@ -1,8 +1,9 @@
 ---
 date: 2023-03-24
-title: Banking Sector Risk in the Aftermath of Climate Change and Environmental-Related Natural Disasters
+category: risk
+title: Notes - Banking Sector Risk in the Aftermath of Climate Change and Environmental-Related Natural Disasters
 tags:
-categories:
+categories: risk
 lastMod: 2023-03-24
 ---
 #TBR #Papers #NIBBLE

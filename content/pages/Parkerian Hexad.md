@@ -1,8 +1,9 @@
 ---
 date: 2022-10-10
+category: data
 title: Parkerian Hexad
 tags:
-categories:
+categories: data
 lastMod: 2023-03-24
 ---
 #NIBBLE, #data, [[Software Development]]

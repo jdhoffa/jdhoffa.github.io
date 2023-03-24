@@ -1,8 +1,9 @@
 ---
 date: 2023-03-21
+category: risk
 title: Physical Risk
 tags:
-categories:
+categories: risk
 lastMod: 2023-03-24
 ---
 Derive from natural disasters and gradual permanent shifts of the climate that

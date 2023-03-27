@@ -1,10 +1,11 @@
 ---
 date: 2023-03-21
 category: risk
-title: Physical Risk
 tags:
+- topic
+title: Physical Risk
 categories: risk
-lastMod: 2023-03-24
+lastMod: 2023-03-27
 ---
 Derive from natural disasters and gradual permanent shifts of the climate that
 can lead to economic costs and financial losses

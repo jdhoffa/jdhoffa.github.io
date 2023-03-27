@@ -1,18 +1,18 @@
 ---
 date: 2023-03-24
-category: risk
-title: Notes - Banking Sector Risk in the Aftermath of Climate Change and Environmental-Related Natural Disasters
+category: climate risk
 tags:
-categories: risk
-lastMod: 2023-03-24
+- paper summary
+- physical risk
+title: Banking Sector Risk in the Aftermath of Climate Change and Environmental-Related Natural Disasters
+categories: climate risk
+lastMod: 2023-03-27
 ---
-#TBR #Papers #NIBBLE
-
 Topics: [[Loans]] [Physical Risk]({{< ref "/pages/Physical Risk" >}}) [[Climate Change]] [[Natural Disasters]] [[Financial Stability]]
 
 Started: [[Mar 22nd, 2023]]
 
-Recommended by:
+Recommended by: [[Moritz Baer]]
 
 Rating:
 
@@ -20,7 +20,7 @@ Books Cited:
 
 Publisher: [[World Bank Group]]
 
-Author: [[Owen Nie]], [[Martijn Regelink]], [[Dieter Wang]]
+Authors: [[Owen Nie]], [[Martijn Regelink]], [[Dieter Wang]]
 
 Link to paper: https://documents1.worldbank.org/curated/en/099614202282325736/pdf/IDU010b823eb0a253042430a92f0c19e5f0c80bc.pdf
 

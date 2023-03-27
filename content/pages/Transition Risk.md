@@ -1,10 +1,11 @@
 ---
 date: 2023-03-23
 category: risk
-title: Transition Risk
 tags:
+- topic
+title: Transition Risk
 categories: risk
-lastMod: 2023-03-24
+lastMod: 2023-03-27
 ---
 Related to cost adjustments during the transition towards a carbon-neutral economy
 

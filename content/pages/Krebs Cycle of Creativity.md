@@ -4,7 +4,7 @@ category: misc
 title: Krebs Cycle of Creativity
 tags:
 categories: misc
-lastMod: 2023-03-24
+lastMod: 2023-03-27
 ---
 Author: [[Neri Oxman]]
 

@@ -6,7 +6,7 @@ tags:
 categories: data
 lastMod: 2023-03-24
 ---
-#NIBBLE, #data, [[Software Development]]
+#nibble, #data, Software Development
 
 A set of six elements regarding information security and data management
 

@@ -6,6 +6,6 @@ tags:
 categories: misc
 lastMod: 2023-03-27
 ---
-Author: [[Neri Oxman]]
+Author: Neri Oxman
 
 ![neri-oxmans-krebs-cycle-of-creativity.jpg](/assets/neri-oxmans-krebs-cycle-of-creativity_1665584471561_0.jpg)

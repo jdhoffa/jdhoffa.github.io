@@ -8,19 +8,19 @@ title: Banking Sector Risk in the Aftermath of Climate Change and Environmental-
 categories: climate risk
 lastMod: 2023-03-27
 ---
-Topics: [[Loans]] [Physical Risk]({{< ref "/pages/Physical Risk" >}}) [[Climate Change]] [[Natural Disasters]] [[Financial Stability]]
+Topics: Lending [Physical Risk]({{< ref "/pages/Physical Risk" >}}) Climate Change Natural Disasters Financial Stability
 
-Started: [[Mar 22nd, 2023]]
+Started: Mar 22nd, 2023
 
-Recommended by: [[Moritz Baer]]
+Recommended by: Moritz Baer
 
 Rating:
 
 Books Cited:
 
-Publisher: [[World Bank Group]]
+Publisher: World Bank Group
 
-Authors: [[Owen Nie]], [[Martijn Regelink]], [[Dieter Wang]]
+Authors: Owen Nie, Martijn Regelink, Dieter Wang
 
 Link to paper: https://documents1.worldbank.org/curated/en/099614202282325736/pdf/IDU010b823eb0a253042430a92f0c19e5f0c80bc.pdf
 
@@ -42,7 +42,7 @@ Summary:
 
   + Empirical study of aggregate impact of physical risks from climate and environmental-related natural disasters on bank balance sheets across 184 countries over nearly 40 years
 
-  + Estimation technique: [[local projection method]]
+  + Estimation technique: local projection method
 
   + Dataset:
 
@@ -50,7 +50,7 @@ Summary:
 
     + Consisting of 184 countries over 1980-2019
 
-  + Findings: Severe natural disaster episodes can lead to an increase in the level of system-wide non-performing loans (NPLs) to total gross loans: [[NPL ratio]]
+  + Findings: Severe natural disaster episodes can lead to an increase in the level of system-wide non-performing loans (NPLs) to total gross loans: NPL ratio
 
   + Cross-country results complemented with country-specific example:
 
@@ -64,17 +64,17 @@ Background:
 
   + Financial sector authorities are devoting greater attention to climate risks in the banking sector:
 
-    + [[Bank for International Settlements]]
+    + Bank for International Settlements
 
-    + [[Network for Greening the Financial System]]
+    + Network for Greening the Financial System
 
   + Global standard-setting bodies have recently issues guidelines for the assessment, management and supervision of such risks:
 
-    + [[Financial Stability Board]]'s roadmap for addressing climate-related financial risks:
+    + Financial Stability Board's roadmap for addressing climate-related financial risks:
 
       + https://www.fsb.org/wp-content/uploads/P070721-2.pdf
 
-    + [[Basel Committee on Banking Supervision]]'s principles for effective management and supervision of climate-related financial risks:
+    + Basel Committee on Banking Supervision's principles for effective management and supervision of climate-related financial risks:
 
   + There is a need for quantitative estimates of the materiality of climate change on the financial system, with quantitative uncertainty estimates
 
@@ -134,15 +134,15 @@ Background:
 
 Findings:
 
-  + Severe natural disaster episodes can lead to an increase in the level of system-wide non-performing loans (NPLs) to total gross loans: [[NPL ratio]]
+  + Severe natural disaster episodes can lead to an increase in the level of system-wide non-performing loans (NPLs) to total gross loans: NPL ratio
 
   + Cross-country
 
     + Effects can be persistent
 
-      + 1 year after official declaration of emergency: [[NPL ratio]] estimated to increase 0.37 percentage points
+      + 1 year after official declaration of emergency: NPL ratio estimated to increase 0.37 percentage points
 
-      + 2&3 years after official declaration of emergency: [[NPL ratio]] cumulative increase to 0.56 & 0.6 percentage points respectively
+      + 2&3 years after official declaration of emergency: NPL ratio cumulative increase to 0.56 & 0.6 percentage points respectively
 
     + Effect observed across multiple regions:
 

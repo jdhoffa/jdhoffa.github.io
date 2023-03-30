@@ -25,7 +25,7 @@ params:
   mobileMenu: true
 
  #Google Analytics 4 optional
-  env: #production
+  env: production
   GoogleAnalytics: "G-JZB0EV35X5" 
   sitemap:
     changefreq: daily

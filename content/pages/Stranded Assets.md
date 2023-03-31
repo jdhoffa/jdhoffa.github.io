@@ -1,10 +1,13 @@
 ---
 date: 2023-03-20
-category: risk
-title: Stranded Assets
+category:
+- finance
 tags:
-categories: risk
-lastMod: 2023-03-24
+- risk
+title: Stranded Assets
+categories:
+- finance
+lastMod: 2023-03-31
 ---
 Stranded assets refer to investments that have become obsolete or unprofitable
 

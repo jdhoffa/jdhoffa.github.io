@@ -1,39 +1,33 @@
 ---
 date: 2023-03-24
-category: climate risk
+category:
+- finance
 tags:
-- paper summary
-- physical risk
+- Paper
+- summary
+- Physical Risk
+- Climate Change
+- risk
 title: Banking Sector Risk in the Aftermath of Climate Change and Environmental-Related Natural Disasters
-categories: climate risk
-lastMod: 2023-03-27
+categories:
+- finance
+lastMod: 2023-03-31
 ---
-Topics: Lending [Physical Risk]({{< ref "/pages/Physical Risk" >}}) Climate Change Natural Disasters Financial Stability
-
 Started: Mar 22nd, 2023
+
+Authors: Owen Nie, Martijn Regelink, Dieter Wang
+
+Publisher: World Bank Group
 
 Recommended by: Moritz Baer
 
 Rating:
 
-Books Cited:
-
-Publisher: World Bank Group
-
-Authors: Owen Nie, Martijn Regelink, Dieter Wang
+Citations:
 
 Link to paper: https://documents1.worldbank.org/curated/en/099614202282325736/pdf/IDU010b823eb0a253042430a92f0c19e5f0c80bc.pdf
 
 
-
-RMI Strategic Takeaways:
-
-
-  + Public discourse is beginning to get quantitative about climate risk estimates, and trying to provide some fundamental uncertainty estimates
-
-  + Useful empirical basis for inclusion of physical risks in supervisory policies (duh)
-
-  + Is it possible to mimic such a quantitative system analysis, but corresponding to transition risk?
 
 Summary:
 
@@ -57,8 +51,6 @@ Summary:
     + Finds: typhoon damages lead to a significant increase in non-performing loans in the Philippines between 2011 and 2018
 
   + Suggests financial policy and supervision has role to play to monitor, assess and mitigate climate and environmental related physical risks to the banking sector
-
-
 
 Background:
 

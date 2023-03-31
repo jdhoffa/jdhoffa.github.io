@@ -1,14 +1,15 @@
 ---
 date: 2023-03-27
-category: recipe
+category:
+- recipe
 tags:
 - vegan
+- dinner
 title: White Bean Kale Soup
-categories: recipe
-lastMod: 2023-03-27
+categories:
+- recipe
+lastMod: 2023-03-31
 ---
-#recipe #vegan #dinner
-
 Photo:
 
 Ingredients:

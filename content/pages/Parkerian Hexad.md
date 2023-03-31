@@ -1,10 +1,12 @@
 ---
 date: 2022-10-10
-category: data
+category:
+- data
 title: Parkerian Hexad
 tags:
-categories: data
-lastMod: 2023-03-24
+categories:
+- data
+lastMod: 2023-03-31
 ---
 #nibble, #data, Software Development
 

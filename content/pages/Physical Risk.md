@@ -35,6 +35,6 @@ These risks directly affect banks, potentially increasing:
 
   + [Operation Risk]({{< ref "/pages/Operation Risk" >}})
 
-  + Reputation Risk
+  + [Reputation Risk]({{< ref "/pages/Reputation Risk" >}})
 
 This threatens the profitability and solvency of banks and the overall stability of the financial system. They can either be gradual in nature, such as rising temperatures and sea levels; or abrupt, as in the case of extreme weather events such as wild fires and storms

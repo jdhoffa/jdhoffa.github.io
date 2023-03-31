@@ -19,6 +19,6 @@ Transition risk can take many forms, including:
 
   + Market risk: Changes in the demand for goods and services, as well as the price of fossil fuels and other commodities, as a result of climate change mitigation efforts.
 
-  + Reputation risk: The potential for negative public perception or damage to a company's brand if it is perceived as not doing enough to address climate change.
+  + [Reputation risk]({{< ref "/pages/Reputation risk" >}}): The potential for negative public perception or damage to a company's brand if it is perceived as not doing enough to address climate change.
 
 Investors, financial institutions, and companies are increasingly aware of the potential impact of transition risk and are taking steps to manage it. This includes conducting climate-related stress tests, developing strategies for transitioning to a low-carbon economy, and incorporating climate risks into financial decision-making.

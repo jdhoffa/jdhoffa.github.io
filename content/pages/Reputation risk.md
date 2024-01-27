@@ -3,11 +3,12 @@ date: 2023-03-31
 category:
 - finance
 tags:
-- nibble risk
+- nibble
+- risk
 title: Reputation risk
 categories:
 - finance
-lastMod: 2023-03-31
+lastMod: 2024-01-11
 ---
 Reputation risk is the potential for negative impact on an organization's reputation, brand value, or image resulting from its actions, decisions, or associations. It is the risk that arises from the perception of an organization's stakeholders, including customers, employees, investors, regulators, and the general public.
 

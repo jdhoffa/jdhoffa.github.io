@@ -3,13 +3,11 @@ date: 2023-03-31
 category:
 - podcast
 tags:
-- tbr
 - Software Development
-- nibble
 title: Developer Tea
 categories:
 - podcast
-lastMod: 2023-03-31
+lastMod: 2024-01-12
 ---
 Topics: Software Development
 

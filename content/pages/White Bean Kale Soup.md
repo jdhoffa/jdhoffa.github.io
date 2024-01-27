@@ -8,10 +8,8 @@ tags:
 title: White Bean Kale Soup
 categories:
 - recipe
-lastMod: 2023-03-31
+lastMod: 2024-01-27
 ---
-Photo:
-
 Ingredients:
 
   + fat (olive oil/ butter)

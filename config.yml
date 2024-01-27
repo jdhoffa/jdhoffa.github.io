@@ -1,7 +1,7 @@
 baseURL: https://jdhoffa.github.io
 languageCode: en-us
 title: Jackson Hoffart
-theme: "PaperMod"
+theme: "hugo-theme-stack"
 
 params:
   homeInfoParams:
